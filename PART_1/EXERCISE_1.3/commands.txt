@@ -1,0 +1,5 @@
+1. docker pull devopsdockeruh/simple-web-service:ubuntu
+2. docker run -d devopsdockeruh/simple-web-service:ubuntu
+3. docker ps -a
+4. docker exec -it determined_banzai bash
+5. tail -f ./text.log
