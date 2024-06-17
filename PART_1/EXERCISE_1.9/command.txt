@@ -1,0 +1,5 @@
+#Created a file using touch command
+touch log.txt
+
+#Run Docker container file mounting the created file
+docker run -v "$(pwd)/log.txt:/usr/src/app/text.log" devopsdockeruh/simple-web-service

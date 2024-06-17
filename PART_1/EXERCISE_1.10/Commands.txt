@@ -1,0 +1,4 @@
+docker run -p 80:8080 web-server:v2
+
+#Access the page
+http://localhost:80

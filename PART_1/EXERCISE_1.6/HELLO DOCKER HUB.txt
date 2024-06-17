@@ -1,0 +1,7 @@
+Commands:
+1. docker run -it devopsdockeruh/pull_exercise
+2. Input: 'basics'
+
+Secret Message:
+You found the correct password. Secret message is:
+"This is the secret message"
